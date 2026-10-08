@@ -1,5 +1,5 @@
 # Automated Incident Detection & Response Lab
-By [Your Name]
+By Tyler Huppe
 
 ## Project Overview
 This project is a localized Security Information and Event Management (SIEM) simulation built in Python. It parses live authentication log streams, evaluates events against security thresholds, identifies active brute-force password-guessing attacks, and automates compliance incident reports for security engineers.
